@@ -1,5 +1,5 @@
 # SOC-Projects
-Hi there! I´m Sergio, a passionate Project/Program Manager based in Spain. I´ve created this repository as I want to move to a SOC Analyst position.
+Hi there! I´m Sergio, a passionate Project/Program Manager in Cybersecurity based in Spain. I´ve created this repository as I want to move to a SOC Analyst position.
 
 I´m constantly learning and enhancing my skills through online courses, certifications and projects.
 
